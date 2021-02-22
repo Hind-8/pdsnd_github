@@ -1,16 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+Bickshare and README file.
 
 
 ### Project Title
 pdsnc
 
 ### Description
-Describe what your project is about and what it does
 gitHub
 ### Files used
 Include the files used
+Bickshare
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Irepo tt's important to give proper credit. Add links to any hat inspired you or blogposts you consulted.
 
